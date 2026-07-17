@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Schmitt
+    given-names: Simon
+title: "Renormalized Angular Momentum Expansions for Kerr-de Sitter spacetimes -- Code for Bachelor Thesis  "
+version: 2.0.4
+identifiers:
+date-released: 2026-07-17
